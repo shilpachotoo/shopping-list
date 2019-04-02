@@ -1,0 +1,28 @@
+﻿body {
+    background-color:blue;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    text-align:center;
+
+}
+
+ul{
+    list-style-type: none;
+    max-width: 300PX;
+    margin:20px auto;
+}
+
+li{
+    min-height:20px;
+    text-align:left;
+    background-color:pink;
+    color:black;
+    padding: 5px;
+    margin-bottom: 5px;
+        
+}
+
+li button{
+    float: right;
+    margin: 0px 3px;
+}
